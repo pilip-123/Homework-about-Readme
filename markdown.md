@@ -1,19 +1,19 @@
-# Welcome To my homepage
+# 🏠Welcome To my homepage
 The our website make it to **suport** the customer in our company.If the customer have problem they can contact us to check our messtaks in my customer idvide and we free feel to ask or suporting.
-## The Target of my service
+## 🚢The Target of my service
 | IT | Network | Website |
 |----|---------|---------|
 |Application|IT suport|Bulid website|
 |Programming|systems|UX UI|
 |code systems|IT suport|Bulid website|
-## Feature
+## 🎎Feature
 - Student & Teacher Management
 - Class & Subject Assignment
 - Attendance Tracking
 - Exam Results
 - User Authentication (JWT)
 - Admin Dashboard
-## Tech Stack
+## 🎇Tech Stack
 1. Programming Language: JavaScript (Node.js)
 2. Runtime: Node.js
 3. Framework: Express.js
@@ -21,19 +21,19 @@ The our website make it to **suport** the customer in our company.If the custome
 5. Authentication: JSON Web Token (JWT)
 6. Environment Management: dotenv
 7. Testing: Jest / Mocha (optional)
-## Screenshot
+## 🎃Screenshot
 ![Dashboard](./images/Test-1.jpg)
 ![Place](./images/Test-2.jpg)
 
 [![Red Button](https://img.shields.io/badge/Delete-Item-red)]() [![Gray Button](https://img.shields.io/badge/Read-More-lightgrey)]() [![Orange Button](https://img.shields.io/badge/Start-Here-orange)]() [![Purple Button](https://img.shields.io/badge/Open-Docs-purple)]() [![Blue Button](https://img.shields.io/badge/Launch-App-blue)]()
-### Click the picture that allow you go to my Git Hub !
+### ✅Click the picture that allow you go to my Git Hub !
 <p align="center">
   <a href="https://github.com/dashboard">
     <img src="./images/pilip.png" width="250" alt="GitHub Profile Picture" />
   </a>
 </p>
 
-## Code Template
+## 🔆Code Template
 ```Python
 numbers=[1,2,3,4,5,6,7]
 sum=0
@@ -42,23 +42,23 @@ for i in range(len(numbers)):
         sum += numbers[i]
 print(sum)
 ```
-## HTML Template
+## Ⓜ HTML Template
 ```html
 <h1>Hello world</h1>
 <p>Welcome to cabodia wish you have a good day!</p>
 ```
-## Bash
+## ♻ Bash
 ```bash
 npm i express
 pip install CV2
 Composer install
 ```
-## Here is the button can help
+## 🟢Here is the button can help
 The link can improve your IT skills and you can learn it by yourself.
 
 [![app](https://img.shields.io/badge/LEARNING-green)](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmdGcXcyaFFvS2xMWUl6bFJROFpiMnZVdEcyZ3xBQ3Jtc0ttVV9LV0Qwemx1TkZ5WXRfTlhBVFRuai1OQ1I4WmtBeThqZVU1VkdFSGx5dk1VYU5zUkxaMFAyYjRiY2IyZ1VnbzNkVzhtYlFRVEdKS3BaaTNvVTZxOG5sQUhuSnZabEY4T3ZBRzlXcTZzbnQzazdrdw&q=https%3A%2F%2Fwww.traversymedia.com%2Fmodern-html-css-from-the-beginning&v=UB1O30fR-EE)
 
-## The Block of coding !
+## 🚀The Block of coding !
 ```python
 array=[[1,2,3,4],[9,8,7,6],[4,5,6,7]]
 result=[]
@@ -85,14 +85,46 @@ print(arrayObject)
 ```
 ```python
 arrayObject=[
-  {'name':'chavy','age':14,'Math'90},
-  {'name':'rida','age':17,'English'96},
-  {'name':'david','age':17,'Khmer'100},
+  {'name':'chavy','age':14,'Math':90},
+  {'name':'rida','age':17,'English':96},
+  {'name':'david','age':17,'Khmer':100},
 ]
 for i in range(len(arrayObject)):
   if arrayObject[i]['age'] != 17:
      print(arrayObject[i]['name'])
 ```
+```python
+import pandas as pd
+data = {
+    'Name': ['Alice', 'Bob', 'Charlie', 'David', 'Eva', 'Frank', 'Grace','Yon'],
+    'Math': [30, 90, 78, 92, 88, 75, 80,80],
+    'English': [87, 85, 82, 91, 89, 76, 84,88]
+}
+df = pd.DataFrame(data,columns=['Math','English'])
+print(df)
+```
+```python
+import pandas as pd
+data = {
+    'Math': [90, 80, 70, 85, 95],
+    'English': [88, 76, 90, 85, 92],
+    'Science': [95, 85, 80, 90, 100]
+}
+df=pd.DataFrame(data)
+average_math = df['English'].mean()
+print("Average Math score:", average_math)
+```
+[![add-blue](https://img.shields.io/badge/Add-more-green)]()
+## 👩🏼‍🤝‍🧑🏻Contact Us
+|numbers|Locations|Telegram|Facebook|
+|-------|---------|--------|--------|
+|066509793|Phnom Penh|097929274|yom pilip|
+|012233445|Phnom Penh|012929274|yom pilip|
+|077506894|Phnom Penh|077929274|yom pilip|
+
+[![apple](https://img.shields.io/badge/Contact-Us-yellow)]()
+
+
 
 
 
