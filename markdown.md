@@ -73,16 +73,27 @@ for i in range(len(array)):
 print(result)
 ```
 ```python
-arrayObject={
-  ['name':'chavy','age':14,'Math'90],
-  ['name':'rida','age':17,'English'96],
-  ['name':'david','age':17,'Khmer'100],
-}
+arrayObject=[
+  {'name':'chavy','age':14,'Math'90},
+  {'name':'rida','age':17,'English'96},
+  {'name':'david','age':17,'Khmer'100},
+]
 for i in range(len(arrayObject)):
   if arrayObject[i]['age'] == 17:
      arrayObject[i]['age'] = 18
 print(arrayObject)
 ```
+```python
+arrayObject=[
+  {'name':'chavy','age':14,'Math'90},
+  {'name':'rida','age':17,'English'96},
+  {'name':'david','age':17,'Khmer'100},
+]
+for i in range(len(arrayObject)):
+  if arrayObject[i]['age'] != 17:
+     print(arrayObject[i]['name'])
+```
+
 
 
 
