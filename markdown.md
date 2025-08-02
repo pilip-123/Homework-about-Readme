@@ -56,6 +56,33 @@ Composer install
 ## Here is the button can help
 The link can improve your IT skills and you can learn it by yourself.
 
-[![app](https://img.shields.io/badge/summit-green)](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmdGcXcyaFFvS2xMWUl6bFJROFpiMnZVdEcyZ3xBQ3Jtc0ttVV9LV0Qwemx1TkZ5WXRfTlhBVFRuai1OQ1I4WmtBeThqZVU1VkdFSGx5dk1VYU5zUkxaMFAyYjRiY2IyZ1VnbzNkVzhtYlFRVEdKS3BaaTNvVTZxOG5sQUhuSnZabEY4T3ZBRzlXcTZzbnQzazdrdw&q=https%3A%2F%2Fwww.traversymedia.com%2Fmodern-html-css-from-the-beginning&v=UB1O30fR-EE)
+[![app](https://img.shields.io/badge/LEARNING-green)](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmdGcXcyaFFvS2xMWUl6bFJROFpiMnZVdEcyZ3xBQ3Jtc0ttVV9LV0Qwemx1TkZ5WXRfTlhBVFRuai1OQ1I4WmtBeThqZVU1VkdFSGx5dk1VYU5zUkxaMFAyYjRiY2IyZ1VnbzNkVzhtYlFRVEdKS3BaaTNvVTZxOG5sQUhuSnZabEY4T3ZBRzlXcTZzbnQzazdrdw&q=https%3A%2F%2Fwww.traversymedia.com%2Fmodern-html-css-from-the-beginning&v=UB1O30fR-EE)
+
+## The Block of coding !
+```python
+array=[[1,2,3,4],[9,8,7,6],[4,5,6,7]]
+result=[]
+for i in range(len(array)):
+  sum=0
+  total=0
+  for arr in array[i]:
+    sum+=arr
+    total+=1
+    Avg=sum/total
+  result.append(Avg)
+print(result)
+```
+```python
+arrayObject={
+  ['name':'chavy','age':14,'Math'90],
+  ['name':'rida','age':17,'English'96],
+  ['name':'david','age':17,'Khmer'100],
+}
+for i in range(len(arrayObject)):
+  if arrayObject[i]['age'] == 17:
+     arrayObject[i]['age'] = 18
+print(arrayObject)
+```
+
 
 
